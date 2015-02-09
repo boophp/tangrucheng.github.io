@@ -1,0 +1,49 @@
+permalink: /:year/:month/:day/:title.html
+paginate: 10
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+# 作者信息
+author: 
+  name: 唐如程
+  email: tangrucheng@gmail.com
+  link: http://whrpc.com
+  weibo: http://weibo.com/ruchengtang
+  github: http://github.com/tangrucheng
+
+# 站点信息
+title: WHRPC
+description: 唐如程博客
+url: http://whrpc.com
+rss_url: /pages/atom.xml
+
+# gavatar头像及Favicon
+gavatar: http://7vijf4.com1.z0.glb.clouddn.com/gavatar.png
+favicon: http://7vijf4.com1.z0.glb.clouddn.com/favicon.ico
+
+# google analytics 设置
+ga:
+  id: UA-59434802-1
+  url: whrpc.com
+
+# disqus 设置
+disqus:
+  shortname: whrpc
+
+# 主题设置，自动激活某个标签
+active: 技术
+
+# 首页除了最新文章外显示分类
+cates: 
+  - Laravel
+  - Symfony
+
+# 中文本地化
+locals:
+  tags: 标签
+  about: 关于
+  newest: 最新文章
+  archive: 归档
+  content: 目录
