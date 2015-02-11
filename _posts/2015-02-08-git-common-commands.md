@@ -93,3 +93,7 @@ description:
 ## Tig
 
 配合Tig使用Git会让你更爽 <http://jonas.nitro.dk/tig>
+
+## GitHub
+
+[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet)
