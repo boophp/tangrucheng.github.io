@@ -97,3 +97,4 @@ description:
 ## GitHub
 
 [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet)
+[Git Subsplit](https://github.com/dflydev/git-subsplit)
