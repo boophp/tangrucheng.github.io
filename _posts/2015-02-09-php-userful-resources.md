@@ -20,7 +20,8 @@ description:
 
 ## 好文
 
-1. [PHP之道](http://wulijun.github.io/php-the-right-way/)
+1. [PHP之道](http://laravel-china.github.io/php-the-right-way/)
+2. [HTTP接口设计指北](https://github.com/bolasblack/http-api-guide)
 
 ## 其它
 
