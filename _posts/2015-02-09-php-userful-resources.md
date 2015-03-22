@@ -8,7 +8,7 @@ description:
 ---
 
 ## PHP资源
-1. [Awesome PHP](https://github.com/ziadoz/awesome-php/)
+1. [Awesome PHP](https://github.com/tangrucheng/awesome-php)
 
 ## 常用工具
 
