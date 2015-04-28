@@ -7,11 +7,8 @@ keywords: PHP
 description: 
 ---
 
-## 常用扩展
-
-1. [phpDocumentor](http://www.phpdoc.org)
-2. [PHPUnit](https://phpunit.de)
-3. [Guzzle](https://github.com/guzzle/guzzle)
+## PHP资源
+1. [Awesome PHP](https://github.com/tangrucheng/awesome-php)
 
 ## 常用工具
 
